@@ -19,12 +19,12 @@ input{
 	background-color: transparent;
 	border: none;
 	border-bottom: 1px solid black;
-	border-radius: 5px;
+	border-radius: 6px;
 }
 select{
 	background-color: transparent;
 	border: none;
-	border-bottom: 1px ;
+	border-bottom: 1.2px ;
 }
 input::placeholder{
 	color: #000000;
@@ -43,7 +43,7 @@ input::placeholder{
 }
 .button1{
 	background-color: #4CAF50;
-	border-radius: 4px;
+	border-radius: 5px;
 }
 .button1:hover {
     background-color: transparent;
@@ -72,7 +72,7 @@ input::placeholder{
 	</nav>
 </div>
 </head>
-<body background="main.jpg" align="center"><br><br><h2> BOOK ROOMS </h2>
+<body background="main.jpg" align="center"><br><br><h2> ROOM BOOKING </h2>
 <br><br>
 
 	<form method="post" action="dobook.php" >
